@@ -8,7 +8,7 @@ Here you will find detailed write-ups, scripts, and methodologies used to solve 
 
 The content is divided into two main categories:
 * **Machines:** Full pentesting reports on vulnerable labs (Root/User flags).
-* **Challenges:** Solutions for specific tasks in Cryptography, Web Exploitation, Reverse Engineering, Pwn, and Misc.
+* **Challenges:** Solutions for specific tasks in Cryptography, Web Exploitation, Reverse Engineering, Pwn, Forensic and Misc.
 
 ## Disclaimer
 > **Important:** In compliance with Hack The Box rules, this repository **ONLY** contains write-ups for **Retired** machines and challenges. No active content will be spoiled here.
@@ -30,9 +30,9 @@ The content is divided into two main categories:
 ```
 
 ## Tools & Technologies
-* **OS:** Kali Linux / Parrot OS
-* **Scanning:** Nmap, Gobuster, Masscan
-* **Web:** Burp Suite, Zap, Nikto
+* **OS:** Kali Linux
+* **Scanning:** Nmap, Gobuster, Masscan, Fuff, 
+* **Web:** Burp Suite, Caido, Nikto
 * **Exploitation:** Metasploit, Searchsploit, Custom Python Scripts
 * **Privilege Escalation:** LinPEAS, WinPEAS, Bloodhound
 
