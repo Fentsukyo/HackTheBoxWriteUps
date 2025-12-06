@@ -1,0 +1,22 @@
+# Système
+.DS_Store
+Thumbs.db
+
+# Fichiers binaires et archives (souvent trop lourds)
+*.exe
+*.dll
+*.so
+*.zip
+*.tar.gz
+*.7z
+
+# Fichiers temporaires d'éditeurs
+.vscode/
+.idea/
+
+# Fichiers spécifiques CTF/HTB à ne pas partager
+*.ovpn
+user.txt
+root.txt
+id_rsa
+id_rsa.pub
